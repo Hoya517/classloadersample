@@ -1,4 +1,4 @@
-package study.whiteship;
+package study.whiteship.jvm.classloader;
 
 /**
  * Hello world!
